@@ -41,6 +41,9 @@ There are two methods of OS installation:
 - Insert SD card in board
 - You need USB to TTL connector to connect board with laptop
 - Connect it
+<p align=center>
+<img src="1.jpeg" width="500" height="300">
+</p>
 
 ## Putty FOR COMMUNICATION
 - After making connections open putty for serial communication
@@ -48,6 +51,9 @@ There are two methods of OS installation:
 - Click open
 - You will see a black screen
 - Now press start button in board to boot
+<p align=center>
+<img src="3.png" width="500" height="300">
+</p>
 
 
  
