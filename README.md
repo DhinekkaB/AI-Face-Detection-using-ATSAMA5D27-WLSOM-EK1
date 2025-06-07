@@ -32,6 +32,9 @@ There are two methods of OS installation:
 - After following the above steps you will be ready with SD image
 - Now install [Balena etcher](https://etcher.balena.io/)
 - Open Balena etcher and flash the image into your SD card
+<p align=center>
+<img src="balena etcher.PNG" width="500" height="300">
+</p>
 
 ## CONNECT BOARD TO LAPTOP
 - Now you have your sd card with OS. It's time to flash the board
