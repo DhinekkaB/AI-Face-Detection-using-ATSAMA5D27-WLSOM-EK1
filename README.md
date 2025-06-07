@@ -42,7 +42,7 @@ There are two methods of OS installation:
 - You need USB to TTL connector to connect board with laptop
 - Connect it
 <p align=center>
-<img src="1.jpeg" width="1600" height="900">
+<img src="1.jpeg" width="600" height="900">
 </p>
 
 ## Putty FOR COMMUNICATION
